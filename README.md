@@ -13,8 +13,8 @@ O projeto utiliza a API do **IGDB** para fornecer uma base de dados robusta, com
 
 ## 📸 Screenshots
 
-*(Coloque aqui uma imagem da tela inicial)*
-*(Coloque aqui uma imagem da tela de detalhes do jogo)*
+![Uploading image.png…]()
+
 
 ---
 
